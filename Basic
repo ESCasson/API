@@ -1,0 +1,46 @@
+[
+{
+"date": "20/02",
+"startTime": "1500",
+"title": "Rangers v Kilmarnock",
+"id": 1,
+"venue": {
+"name": "Ibrox",
+"capacity": 0,
+"id": 1
+}
+},
+{
+"date": "27/02",
+"startTime": "1900",
+"title": "Celtic v Cally",
+"id": 2,
+"venue": {
+"name": "Celtic Park",
+"capacity": 0,
+"id": 2
+}
+},
+{
+"date": "24/02",
+"startTime": "1200",
+"title": "Scotland v Ireland",
+"id": 3,
+"venue": {
+"name": "Hampden Park",
+"capacity": 0,
+"id": 3
+}
+},
+{
+"date": "01/03",
+"startTime": "1315",
+"title": "Scotland v Wales",
+"id": 4,
+"venue": {
+"name": "Hampden Park",
+"capacity": 0,
+"id": 3
+}
+}
+]
